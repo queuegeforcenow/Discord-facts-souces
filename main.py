@@ -10,4 +10,4 @@ async def on_ready():
     print("ログインしました！")
     await bot.change_presence(activity=discord.Game(name="1"))
 
-bot.run("MTIzMjQ4MjU5NTI0NjMxMzUyNA.GsR1MR.1Y6Ij89xEIij2_hakkEhqCSe4G2JwzxeAtYvho")
+bot.run(TOKENE)
